@@ -1,0 +1,8 @@
+[submodule "vendor/sqlite"]
+    path = vendor/sqlite
+    url = https://github.com/sqlite/sqlite.git
+    shallow = true
+[submodule "vendor/linenoise"]
+    path = vendor/linenoise
+    url = https://github.com/antirez/linenoise.git
+    shallow = true

@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier
+_commit: e730ed7
+_src_path: gh:audivir/copier-template
+description: Static build of the sqlite3 shell with the SQLite library linked in
+github_org: zshsetup
+project_name: sqlite3-static
+project_slug: sqlite3_static
+project_type: shell
+publishable: false
